@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">01_Ud3_ThreadANR</string>
+    <string name="BotonHebra">Genera Claves RSA Hebra nueva</string>
+    <string name="Asynctask">Genera Clave usando AsyncTask</string>
+    <string name="AsynTaskText">Clave RSA muy grande AsyncTask</string>
+    <string name="BotonMainT">Genera Claves RSA Hebra UI</string>
+    <string name="BotonHMT">Clave RSA muy grande Hebra Principal</string>
+    <string name="hebrasWorkeT">Clave RSA muy grande Hebra Secundaria</string>
+</resources>
