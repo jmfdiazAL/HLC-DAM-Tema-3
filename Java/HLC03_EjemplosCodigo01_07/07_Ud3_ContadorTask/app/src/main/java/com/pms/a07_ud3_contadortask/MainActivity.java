@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
                     // si cuenta en marcha
                 else {
                     // envía el nuevo valor calculado
-                    publishProgress(progreso = progreso + 1);
+                    publishProgress(progreso++);
                     // simula la cadencia durmiendo el hilo secundario
                     try {
                         Thread.sleep(mSleep);
